@@ -5,6 +5,7 @@ description         : >-
                       use tabs over spaces
                       and never broke production.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+remote_theme        : manashishah/manashishah.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
