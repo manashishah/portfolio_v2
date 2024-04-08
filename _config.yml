@@ -96,6 +96,7 @@ defaults:
 
 ### Exclude from processing ###
 exclude:
+  - tmp/
   - README.md
   - CONTRIBUTING.md
   - LICENSE
